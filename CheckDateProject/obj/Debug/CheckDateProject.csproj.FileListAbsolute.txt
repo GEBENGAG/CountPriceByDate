@@ -1,0 +1,16 @@
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.csproj.AssemblyReference.cache
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\MainWindow.g.cs
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\App.g.cs
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject_MarkupCompile.cache
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject_MarkupCompile.lref
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\bin\Debug\CheckDateProject.exe.config
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\bin\Debug\CheckDateProject.exe
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\bin\Debug\CheckDateProject.pdb
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\MainWindow.baml
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.g.resources
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.Properties.Resources.resources
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.csproj.GenerateResource.cache
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.csproj.CoreCompileInputs.cache
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.exe
+C:\Users\yugen\Documents\CheckDateProject\CheckDateProject\obj\Debug\CheckDateProject.pdb

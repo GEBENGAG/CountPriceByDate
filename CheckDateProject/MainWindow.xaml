@@ -1,0 +1,18 @@
+﻿<Window x:Class="CheckDateProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckDateProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Услуга тест - 30000" x:Name="textServicePrice"></TextBlock>
+            
+            <DatePicker Margin="10" x:Name="datePickerFrom" SelectedDateChanged="datePickerFrom_SelectedDateChanged" ></DatePicker>
+            <DatePicker Margin="10" x:Name="datePickerTo" SelectedDateChanged="datePickerTo_SelectedDateChanged"></DatePicker>
+            <Label x:Name="labelTip" Foreground="Red" FontSize="14" Content="подсказка" HorizontalAlignment="Center"></Label>
+        </StackPanel>
+    </Grid>
+</Window>
